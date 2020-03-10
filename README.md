@@ -10,6 +10,12 @@
 
 
 1 Сделайте форк (Fork)  репозитория. 
+-fork repository made
+-commit, pull, pull request, marge learned
+-Github Desctop installed
+-sync with VS Code
+
+
 2 ** Напишите необходимые вам для работы таски для Gulp. Сохраняйте изменения в Git с помощью коммитов с комментариями на английском языке. . 
 
 3 Сверстайте  форму регистрации из дизайн-макета по ссылке: 
